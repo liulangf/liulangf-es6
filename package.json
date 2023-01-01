@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/liulangf/liulangf-es6#readme",
   "devDependencies": {
-    "webpack": "^4.41.6"
+    "webpack": "^5.75.0"
   }
 }
